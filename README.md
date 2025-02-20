@@ -7,4 +7,4 @@ An R data parser for the gPhone 74 gravity meter.
 
 These files may be used in conjunction with e.g., RStudio.
 
-Reference: Stenborg, T and Legge, S, "An R Data Parser for the gPhone Gravity Meter", Preview (in press).
+Reference: [Stenborg, T and Legge, S 2025 "An R Data Parser for the gPhone Gravity Meter", *Preview*, issue 234, p. 30.](https://www.aseg.org.au/public/200/files/digital-library-files/pv234.pdf).
